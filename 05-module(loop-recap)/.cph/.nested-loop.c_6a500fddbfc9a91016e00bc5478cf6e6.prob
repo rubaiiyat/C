@@ -1,0 +1,1 @@
+{"name":"Local: nested-loop","url":"e:\\C programming\\05-module(loop-recap)\\nested-loop.c","tests":[{"id":1682452380656,"input":"5\n10","output":"012345678910\n012345678910\n012345678910\n012345678910\n012345678910"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C programming\\05-module(loop-recap)\\nested-loop.c","group":"local","local":true}
