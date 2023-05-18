@@ -1,0 +1,1 @@
+{"name":"Local: 01-count-1","url":"e:\\C programming\\12-mid-term\\01-count-1.c","tests":[{"id":1684353120938,"input":"6\n73 35 92 0 60 88 ","output":"4 2"},{"id":1684353135788,"input":"3\n7 3 10","output":"1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C programming\\12-mid-term\\01-count-1.c","group":"local","local":true}

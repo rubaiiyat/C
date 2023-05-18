@@ -1,0 +1,1 @@
+{"name":"Local: 03-Workers","url":"e:\\C programming\\12-mid-term\\03-Workers.c","tests":[{"id":1684356512084,"input":"10 5 15","output":"30"},{"id":1684356522019,"input":"4 1 5","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C programming\\12-mid-term\\03-Workers.c","group":"local","local":true}

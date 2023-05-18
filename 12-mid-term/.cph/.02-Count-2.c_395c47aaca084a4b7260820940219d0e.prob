@@ -1,0 +1,1 @@
+{"name":"Local: 02-Count-2","url":"e:\\C programming\\12-mid-term\\02-Count-2.c","tests":[{"id":1684355048291,"input":"thefoxisgone","output":"5"},{"id":1684355064212,"input":"ilikeassignments","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C programming\\12-mid-term\\02-Count-2.c","group":"local","local":true}
